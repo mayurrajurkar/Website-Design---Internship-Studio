@@ -1,0 +1,41 @@
+1) correct way to apply style to document:
+      Use an external style sheet, either by importing it or by linking to it
+      Directly embed a document-wide style in the head element of the document
+      Set an inline style rule using the style attribute directly on an element
+    ✓ All of the mentioned 
+    
+2)The _______property is used to set the color of the text.
+
+    pallet
+    colour
+  ✓ color 
+    text-decoration
+    
+3)Which of the following is the correct way to apply Styles?
+
+   inside an HTML element
+   inside the section of an HTML page
+   in an external CSS file
+ ✓all of the mentioned 
+ 
+ 
+4)  Which of the following CSS list properties is/are correct?
+
+
+     Set different list item markers for ordered lists
+     Set different list item markers for unordered lists
+     Set an image as the list item marker
+   ✓ All of the mentioned 
+   
+5)A ___________ is used to define a special state of an element.
+      pseudo-tag
+      pseudo-element
+      pseudo-id
+    ✓ pseudo-class 
+    
+6)The __________ property specifies the type of positioning method used for an element.
+
+     align
+     float
+   ✓ position 
+     padding
